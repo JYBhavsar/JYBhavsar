@@ -84,16 +84,16 @@ I am starting to contribute to open-source projects, focusing on:
 
 ### 📈 GitHub Stats  
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYBhavsar&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYBhavsar&layout=compact&theme=radical)  
 
 ---
 
 ### 📡 Contact & Collaboration  
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- **Email:** consult@jaybackend.systems  
-- **Portfolio:** Available upon request  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jaybhavsar2010)  
+- **Email:** jybconsultancy@gmail.com  
+- **Portfolio:** [Available upon request](https://jybconsultancy.com/)  
 - **Timezone:** GMT +5:30 (IST)  
 
 > _"I design backend ecosystems that not only scale but secure your market position."_  
